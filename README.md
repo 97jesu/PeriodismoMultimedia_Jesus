@@ -41,12 +41,11 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   (Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+* [@matthewbennett](https://twitter.com/matthewbennett) De esta propuesta he conseguido la idea de configurar mi proyecto en torno a un hilo de Twitter. Es una forma rápida y sencilla de crear una historia a lo largo del tiempo.
 
+* [@CultureCrave](https://twitter.com/CultureCrave) De esta otra ha surgido el concepto de mi proyecto, es decir, basarlo en curiosidades sobre cine. En mi caso concreto, Star Wars. 
 
 **Necesidad/oportunidad** 
 
