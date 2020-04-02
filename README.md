@@ -45,20 +45,19 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 * [@matthewbennett](https://twitter.com/matthewbennett) De esta propuesta he conseguido la idea de configurar mi proyecto en torno a un hilo de Twitter. Es una forma rápida y sencilla de crear una historia a lo largo del tiempo.
 
-* [@CultureCrave](https://twitter.com/CultureCrave) De esta otra ha surgido el concepto de mi proyecto, es decir, basarlo en curiosidades sobre cine. En mi caso concreto, Star Wars. 
+* [@CultureCrave](https://twitter.com/CultureCrave) De esta otra ha surgido el concepto, es decir, basarlo en curiosidades sobre cine. En mi caso concreto, Star Wars. 
 
-**Necesidad/oportunidad** 
+**Necesidad/oportunidad** Desde pequeño me he interesado en la saga y me han llamado la atención este tipo de informaciones. Soy muy curioso y, además, utilizo diariamente Twitter y no he visto nada parecido.
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** Se trata de hacer ver la “otra cara” de la saga para apreciar aún más lo conseguido por George Lucas y su equipo. Despertar en la audiencia ese sentimiento de “capacidad de superación” al ver el proceso que llevó a la creación de Star Wars. 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  El hilo va dirigido a cinéfilos en general y a fans de la ciencia ficción y Star Wars en particular. De forma global, personas con curiosidad. En Twitter hay muchas, afortunadamente.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
+**Estilo de narración**  
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+* Principalmente texto e imagen
+* Oportunidad de introducir vídeos e infografías
+
 
 
 
