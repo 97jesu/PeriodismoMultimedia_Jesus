@@ -25,7 +25,7 @@ Universidad de Granada
 
 **Fecha** : 2020
 
-**Medios** (donde se tiene presencia): 
+**Medios** donde se tiene presencia: 
 
 
 * [Wix](https://jesuu97rm.wixsite.com/curiosidadesstarwars) 
