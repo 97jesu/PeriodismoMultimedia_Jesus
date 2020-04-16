@@ -11,13 +11,13 @@ Univesidad de Granada
 
 **Autor** Jesús Hoyos
 
-**Resumen** : Reportaje multimedia con texto, vídeo, imagen e infografía sobre la producción de la trilogía original de Star Wars a cargo de George Lucas y FOX. Poca gente conoce las dificultades existentes durante el proceso de escritura y rodaje: en qué se basó George Lucas para la creación de la historia, cómo fueron las negociaciones con la productora o su depresión durante el rodaje por la falta de medios y altos estándares autoimpuestos por él mismo. Incluso los propios actores dudaban de la película mientras la rodaban, esperando incluso un fracaso a nivel comercial y de crítica. La historia demostró que estaban equivocados, pero hay cientos de anécdotas y detalles que son interesantes y merecen ser conocidos.
+**Resumen** : Reportaje multimedia con texto, vídeo e imagen sobre la producción de la trilogía original de Star Wars a cargo de George Lucas y FOX. Poca gente conoce las dificultades existentes durante el proceso de escritura y rodaje: en qué se basó George Lucas para la creación de la historia, cómo fueron las negociaciones con la productora o su depresión durante el rodaje por la falta de medios y altos estándares autoimpuestos por él mismo. Incluso los propios actores dudaban de la película mientras la rodaban, esperando incluso un fracaso a nivel comercial y de crítica. La historia demostró que estaban equivocados, pero hay cientos de anécdotas y detalles que son interesantes y merecen ser conocidos.
 
 **Logotipo**
 
 ![logo](https://i.imgur.com/CBGoP17.png)
 
-**Slogan** (frase motivadora/inspiradora): Hazlo, o no lo hagas, pero no lo intentes.
+**Slogan**: Hazlo, o no lo hagas, pero no lo intentes.
 
 **Hashtag** #StarWars
 
@@ -28,7 +28,7 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
+* [Wix](https://jesuu97rm.wixsite.com/curiosidadesstarwars) 
 * Twitter 
 
 
