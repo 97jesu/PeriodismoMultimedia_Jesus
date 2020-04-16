@@ -87,11 +87,14 @@ Email. Permite recibir respuestas, sugerencias o quejas directamente desde el le
 
 ### Conclusiones y trabajo futuro
 
+* Grado de consecución del proyecto.
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Problemas identificados.
+
+* Propuestas de mejora.
+
+* Posible interés del proyecto.
+
 
 ----
 
