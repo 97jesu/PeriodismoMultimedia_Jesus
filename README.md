@@ -89,12 +89,27 @@ Email. Permite recibir respuestas, sugerencias o quejas directamente desde el le
 
 * Grado de consecución del proyecto.
 
+La idea principal era desarrollar tres reportajes multimedia completos, uno por cada película de la trilogía original pero, debido a la escala del proyecto, únicamente se ha producido el primero de ellos. La web se ha creado a través de Wix por su facilidad de uso y la posibilidad de emplear plantillas prediseñadas -aunque permite cierto grado de edición propia-. La redacción y elaboración del texto, es decir, la base del contenido, se realizó tras el visionado de la película, empleando conocimientos propios y otros adquiridos mediante la consulta de diferentes páginas webs. Tras esto, se buscaron los vídeos e imágenes necesarios. Se editaron, recortaron y, los que lo requerían, transformaron a otros formatos, como GIF. En la página también se incluyó un reproductor de música con un tema de la banda sonora, siendo esta una de las primeras ideas planteadas. Después de estructurar completamente el reportaje en la web, se procedió a resumirlo para poder adaptarlo al formato hilo en Twitter. 
+
+Se puede concluir que el objetivo del proyecto ha sido cumplido puesto que la idea era proporcionar información sobre Star Wars. A pesar de que no se hayan podido elaborar los otros dos reportajes, he quedado satisfecho puesto que la primera película de la saga es la que más anécdotas, detalles y curiosidades nos ha dejado.
+
 * Problemas identificados.
+
+Principalmente lo referente a la elaboración de la web y el empleo de otras formas de relato. Los conocimientos de programación por mi parte son nulos y decidí emplear algún CMS. Me decidí por Wix aunque no lo había usado nunca, pero resultó ser sencillo. Me hubiera gustado emplear algún efecto tipo "Parallax" para la navegación en la web pero por la misma razón no fue posible.
+
+Respecto al proyecto como tal (idea, planifcación o difusión del mismo) no he encontrado ningún problema, sobre todo porque el tema me apasionaba.
 
 * Propuestas de mejora.
 
+Volviendo a lo anterior, la principal mejora posible es la ampliación del proyecto. Terminar los dos reportajes de las películas que faltan de la trilogía original y sumar a todo ello una publicación para cada película estrenada después (en total, 11). Además, la web puede ir mucho más allá. Por ejemplo, hablar más en profundidad de algún aspecto en concreto (actores, banda sonora, efectos especiales) que pueda dar juego. Star Wars es un universo enorme, no solo basado en películas, sino en series, cómics, novelas o videojuegos. Por lo que esas posibilidades de ampliación son casi infinitas.
+
+Otro aspecto a mejorar es la interacción con el usuario. Actualmente está prácticamente limitada a que este comparta los contenidos, pero no participar en ellos. Algún aspecto colaborativo sería interesante.
+
+Por último, ampliar la difusión a otras redes sociales, principalmente Instagram, puede ser considerado como una opción, sobre todo por el amplio público que consume dicha red social. 
+
 * Posible interés del proyecto.
 
+Personas interesadas en el tema y conocedoras de la historia de la saga podría perfectamente pasar a formar parte del proyecto y aportar sus propios conocimientos, ampliando así los contenidos y, por tanto, aumentando las posibilidades de expansión. Por otro lado, cualquier empresa que venda productos de Star Wars (películas, libros, videojuegos, juguetes, figuras, merchandising en general) podría publicitarse en la página. La viabilidad del proyecto a largo plazo se basaría lógicamente en los ingresos por publicidad.
 
 ----
 
