@@ -1,9 +1,9 @@
 ## Producción de la trilogía original de Star Wars 
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
-Master de Nuevos medios interactivos y periodismo multimedia
+Máster de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
-Univesidad de Granada  
+Universidad de Granada  
 
 ----
 
@@ -71,23 +71,18 @@ Imagen visual. El logo se ha obtenido directamente de Google Imágenes. Darth Va
 
 Redes sociales. Únicamente se ha empleado Twitter ([@jesuu97](https://twitter.com/Jesuu97/status/1250484898361683970)), ya que ofrece la posibilidad de construir relatos cortos (o no tan cortos) mediante hilos, algo perfecto para que el lector pueda participar e interaccionar. Además, es fácil de usar y tiene una amplísima base de usuarios.
 
-Página web. Se ha elaborado un portal web que recoge las publicaciones con los relatos construídos tanto con texto como imágenes y GIFs (El contenido de la página web es propio. Las historias que se narran tanto en Wix como en Twitter han sido investadas por la autora del proyecto). Se aprovecha esta página para introducir contenido dinámico y participativo. En el menú se incluyen: un apartado con vídeos de los villanos en sus respectivas películas, una votación en la que el usuario puede elegir el siguiente cuento (la votación está creada con Xoyondo, que envía la respuesta al email) y un collage de fotos de los villanos que al pinchar en él redirige al usuario a una lista (List.ly) en la que se enumeran todos los villanos de Disney por orden de estreno de las pleículas. Igualmente, en este blog, se explica el origen del proyecto y se facilita el contacto con el creador (Laura Gómez) a través de email y Twitter. Se adjunta, entonces, enlace a la página web: https://nosonvillanos.wixsite.com/lauragomez  
+Página web. Se ha creado una [web](https://jesuu97rm.wixsite.com/curiosidadesstarwars) que recoge el reportaje multimedia construido desde cero con texto, imágenes, vídeos y GIFs. Además, se da la opción de escuchar un tema de la banda sonora de Star Wars durante la navegación. Los diferentes menús contienen enlaces a las tres películas de la trilogía original. Se facilita el contacto con el creador (Jesús Hoyos) a través de Twitter, así como una suscripción por e-mail a novedades de la web.
 
+Cada post en la web incluye un botón para compartir la publicación en Twitter y en el hilo de Twitter se encuentra disponible el enlace para acceder al reportaje completo en la web.Así, ambas plataformas quedan integradas. 
 
-Cada post en la web incluye un botón para compartir la publicación en Twitter y en el hilo de Twitter se encuentra disponible el enlace para acceder al reportaje completo en la web.
-
-
-Todas las publicaciones del blog tienen hiperenlace a su correspondiente hilo narrativo en Twitter, al igual que en Twitter se ofrece el link a la página web en la biografía del perfil y en los tuits. De esta manera ambas plataformas quedan ligadas. Para reforzar dicha unión, hay un apartado en la página web dedicado únicamente a recoger el enlace a Twitter (página de inicio, parte inferior). Es muy importante señalar el uso en ambas plataformas de hashtags, ya que no solo mejoran el posicionamiento SEO de la página web y atraen tráfico, sino que facilitan la búsqueda de los usuarios a través de las palabras clave establecidas.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+Twitter. Valorar la respuesta en esta red social es sencillo, ya que la plataforma ofrece un apartado gratuito llamado Analytics que ofrece detalles sobre la actividad en cada tweet: impresiones, interacciones y tasa de interacción (%) de los usuarios. Eso es interesante puesto que podemos conocer exactamente qué tweets dentro del hilo han sido los más compartidos o los que más han gustado. 
 
-* Test con usuarios (...) 
-* ... 
+Página web. La versión básica de Wix ofrece un escaso análisis de la interacción y reacción del lector. Apenas información sobre el número de visitas, me gustas o enlaces compartidos. 
 
-
-
+Email. Permite recibir respuestas, sugerencias o quejas directamente desde el lector, por lo que es una de las mejores opciones. 
 
 
 ### Conclusiones y trabajo futuro
